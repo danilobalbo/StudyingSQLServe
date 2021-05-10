@@ -1,5 +1,3 @@
-
-
 /*
 Loja de suco do Jailson
 
@@ -68,3 +66,4 @@ ALTER TABLE tb_Vendas
 ADD CONSTRAINT FK_Produtos_Vendas
 FOREIGN KEY (CodigoProduto)
 REFERENCES tb_Produtos(CodigoProduto)
+
