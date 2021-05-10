@@ -6,7 +6,7 @@ Link da Playlist: https://www.youtube.com/watch?v=X7BUKUoO8ZI&list=PL4OAe-tL47sY
 
 ## Primeira Playlist (Iniciantes)
 
-<<<<<<< HEAD
+
 >Aulas 01 a 08 - Criando Tabelas e Foreign Key
 
 >Aula 09 - Inserindo Dados.
@@ -16,11 +16,3 @@ Link da Playlist: https://www.youtube.com/watch?v=X7BUKUoO8ZI&list=PL4OAe-tL47sY
 >Aula 11 - Refatoração da Tabela de Vendas
 
 >Aula 12 - Regras de FK e Inserções
-=======
-  >Aulas 01 a 08 - Criando Tabelas e Foreign Key.
-
-  >Aula 09 - Inserindo Dados.
-
-
-
->>>>>>> 94bbc2f9e8cf93241efc4a16a1e0582970258e90
